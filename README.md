@@ -3,7 +3,7 @@
 [![Build status](https://github.com/termux/termux-api/workflows/Build/badge.svg)](https://github.com/termux/termux-api/actions)
 [![Join the chat at https://gitter.im/termux/termux](https://badges.gitter.im/termux/termux.svg)](https://gitter.im/termux/termux)
 
-This is an app exposing Android API to command line usage and scripts or programs.
+This is an app exposing Android API to cobb mmand line usage and scripts or programs.
 
 When developing or packaging, note that this app needs to be signed with the same
 key as the main Termux app for permissions to work (only the main Termux app are
